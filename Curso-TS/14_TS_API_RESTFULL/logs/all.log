@@ -1,0 +1,440 @@
+2022-04-27 16:51:15:5115 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 16:52:07:527 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 16:52:13:5213 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 16:54:02:542 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 16:54:07:547 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 16:54:09:549 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 16:54:46:5446 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 16:55:11:5511 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 16:56:01:561 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 16:56:18:5618 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:07:24:724 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:07:38:738 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:07:46:746 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:07:54:754 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:08:49:849 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:08:50:850 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:08:52:852 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:21:46:2146 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:21:50:2150 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:21:52:2152 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:21:58:2158 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:22:24:2224 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:22:29:2229 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:26:24:2624 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:30:20:3020 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:32:02:322 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:32:11:3211 - [35mhttp[39m: [35mPOST /api/animes 200 21 - 1.728 ms[39m
+[35m[39m
+2022-04-27 17:33:03:333 - [35mhttp[39m: [35mGET /api/animes 404 149 - 1.922 ms[39m
+[35m[39m
+2022-04-27 17:33:09:339 - [35mhttp[39m: [35mPOST /api/animes 200 21 - 0.393 ms[39m
+[35m[39m
+2022-04-27 17:33:37:3337 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:34:14:3414 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:34:16:3416 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:34:17:3417 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:34:26:3426 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:34:29:3429 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:34:42:3442 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:34:50:3450 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:35:00:350 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:35:05:355 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:35:11:3511 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:35:21:3521 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:35:30:3530 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:35:35:3535 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:35:41:3541 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:35:48:3548 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:35:56:3556 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:36:06:366 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:36:11:3611 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:36:13:3613 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:36:16:3616 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:36:39:3639 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:36:41:3641 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:36:52:3652 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:37:45:3745 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:37:49:3749 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:38:49:3849 - [35mhttp[39m: [35mPOST /api/animes 201 148 - 93.577 ms[39m
+[35m[39m
+2022-04-27 17:49:14:4914 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:49:20:4920 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:49:27:4927 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:49:41:4941 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:49:44:4944 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:50:09:509 - [35mhttp[39m: [35mPOST /api/animes 201 151 - 71.243 ms[39m
+[35m[39m
+2022-04-27 17:57:02:572 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:57:03:573 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:57:51:5751 - [35mhttp[39m: [35mPOST /api/animes - - - - ms[39m
+[35m[39m
+2022-04-27 17:58:00:580 - [35mhttp[39m: [35mPOST /api/animes - - - - ms[39m
+[35m[39m
+2022-04-27 17:58:13:5813 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:58:16:5816 - [35mhttp[39m: [35mPOST /api/animes 422 43 - 4.144 ms[39m
+[35m[39m
+2022-04-27 17:58:51:5851 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:58:58:5858 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:59:03:593 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:59:08:598 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:59:12:5912 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:59:14:5914 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 17:59:18:5918 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:00:00:00 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:00:26:026 - [35mhttp[39m: [35mPOST /api/animes 422 69 - 4.368 ms[39m
+[35m[39m
+2022-04-27 18:01:39:139 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:01:42:142 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:01:46:146 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:01:56:156 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:01:59:159 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:02:00:20 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:02:03:23 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:02:54:254 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:03:24:324 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:03:52:352 - [35mhttp[39m: [35mPOST /api/animes 422 51 - 4.554 ms[39m
+[35m[39m
+2022-04-27 18:04:54:454 - [35mhttp[39m: [35mPOST /api/animes 201 164 - 80.765 ms[39m
+[35m[39m
+2022-04-27 18:07:35:735 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:07:39:739 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:07:43:743 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:07:55:755 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:08:23:823 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:08:30:830 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:08:39:839 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:09:08:98 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:09:20:920 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:09:24:924 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:09:36:936 - [35mhttp[39m: [35mPOST /api/animes 422 56 - 6.259 ms[39m
+[35m[39m
+2022-04-27 18:10:04:104 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:10:10:1010 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:10:24:1024 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:10:26:1026 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:10:32:1032 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:10:35:1035 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:10:45:1045 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:10:46:1046 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:11:21:1121 - [35mhttp[39m: [35mPOST /api/animes 422 59 - 6.256 ms[39m
+[35m[39m
+2022-04-27 18:12:36:1236 - [35mhttp[39m: [35mPOST /api/animes 201 500 - 74.895 ms[39m
+[35m[39m
+2022-04-27 18:13:49:1349 - [35mhttp[39m: [35mPOST /api/animes 201 498 - 59.537 ms[39m
+[35m[39m
+2022-04-27 18:15:32:1532 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:15:34:1534 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:16:00:160 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:17:34:1734 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:18:00:180 - [35mhttp[39m: [35mPOST /api/animes 422 51 - 4.537 ms[39m
+[35m[39m
+2022-04-27 18:18:25:1825 - [35mhttp[39m: [35mPOST /api/animes 201 523 - 75.378 ms[39m
+[35m[39m
+2022-04-27 18:19:32:1932 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:19:34:1934 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:19:36:1936 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:19:42:1942 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:19:43:1943 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:19:48:1948 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:20:15:2015 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:24:46:2446 - [35mhttp[39m: [35mPOST /api/animes 201 618 - 80.884 ms[39m
+[35m[39m
+2022-04-27 18:26:20:2620 - [35mhttp[39m: [35mGET /api/animes 404 149 - 3.342 ms[39m
+[35m[39m
+2022-04-27 18:27:05:275 - [35mhttp[39m: [35mGET /test 404 143 - 1.926 ms[39m
+[35m[39m
+2022-04-27 18:32:13:3213 - [35mhttp[39m: [35mPOST /api/animes 201 594 - 65.104 ms[39m
+[35m[39m
+2022-04-27 18:32:40:3240 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:32:55:3255 - [35mhttp[39m: [35mPOST /api/animes 201 594 - 77.554 ms[39m
+[35m[39m
+2022-04-27 18:33:45:3345 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:34:20:3420 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:34:23:3423 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:34:28:3428 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:34:30:3430 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:34:32:3432 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:34:46:3446 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:34:51:3451 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:34:53:3453 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:35:18:3518 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:35:30:3530 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:35:32:3532 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:35:35:3535 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:35:42:3542 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:35:48:3548 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:36:13:3613 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:36:18:3618 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:36:21:3621 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:36:23:3623 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:36:33:3633 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:36:37:3637 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:36:40:3640 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:36:42:3642 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:36:44:3644 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:36:58:3658 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:37:01:371 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:37:11:3711 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:37:14:3714 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:37:17:3717 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:37:20:3720 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:37:25:3725 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:37:27:3727 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:37:31:3731 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:37:38:3738 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:37:40:3740 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:37:52:3752 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:37:55:3755 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:37:57:3757 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:38:03:383 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:38:05:385 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:38:10:3810 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:38:15:3815 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:38:45:3845 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:38:48:3848 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:38:55:3855 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:39:11:3911 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:39:17:3917 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:39:20:3920 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:39:24:3924 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:39:25:3925 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:39:29:3929 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:39:34:3934 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:39:36:3936 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:39:38:3938 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:39:49:3949 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:41:51:4151 - [35mhttp[39m: [35mGET /api/animes/6269b68775695e5bab463381 - - - - ms[39m
+[35m[39m
+2022-04-27 18:42:07:427 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "6269b68775695e5bab46338" (type string) at path "_id" for model "Anime"[39m
+2022-04-27 18:42:29:4229 - [35mhttp[39m: [35mGET /api/animes/6269b68775695e5bab46338 - - - - ms[39m
+[35m[39m
+2022-04-27 18:46:34:4634 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:46:45:4645 - [35mhttp[39m: [35mGET /api/animes/6269b68775695e5bab46338 404 173 - 2.953 ms[39m
+[35m[39m
+2022-04-27 18:47:08:478 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:47:11:4711 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:47:14:4714 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:47:19:4719 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "6269b68775695e5bab46338" (type string) at path "_id" for model "Anime"[39m
+2022-04-27 18:47:25:4725 - [35mhttp[39m: [35mGET /api/animes/6269b68775695e5bab46338 - - - - ms[39m
+[35m[39m
+2022-04-27 18:49:10:4910 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:49:49:4949 - [35mhttp[39m: [35mGET /api/animes/6269b68775695e5bab463381 - - - - ms[39m
+[35m[39m
+2022-04-27 18:49:54:4954 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "6269b68775695e5bab4633811" (type string) at path "_id" for model "Anime"[39m
+2022-04-27 18:50:08:508 - [35mhttp[39m: [35mGET /api/animes/6269b68775695e5bab4633811 - - - - ms[39m
+[35m[39m
+2022-04-27 18:50:36:5036 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:50:39:5039 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:50:45:5045 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:50:46:5046 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:50:50:5050 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:50:53:5053 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:51:02:512 - [35mhttp[39m: [35mGET /api/animes/6269b68775695e5bab463381 200 594 - 85.205 ms[39m
+[35m[39m
+2022-04-27 18:51:07:517 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "6269b68775695e5bab4633811" (type string) at path "_id" for model "Anime"[39m
+2022-04-27 18:51:16:5116 - [35mhttp[39m: [35mGET /api/animes/6269b68775695e5bab4633811 - - - - ms[39m
+[35m[39m
+2022-04-27 18:51:39:5139 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:52:08:528 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:52:45:5245 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:52:52:5252 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:52:54:5254 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:54:04:544 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:54:13:5413 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:54:14:5414 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:54:18:5418 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:55:36:5536 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:55:45:5545 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:55:48:5548 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:55:51:5551 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:55:53:5553 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:55:56:5556 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:56:40:5640 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 18:57:47:5747 - [35mhttp[39m: [35mGET /api/animes 200 1215 - 76.463 ms[39m
+[35m[39m
+2022-04-27 19:00:09:09 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:00:45:045 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:00:51:051 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:00:56:056 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:00:58:058 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:01:00:10 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:01:18:118 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:01:22:122 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:01:27:127 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:01:29:129 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:01:37:137 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:01:40:140 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:01:47:147 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:01:56:156 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:02:35:235 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:02:38:238 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:02:41:241 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:02:52:252 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:03:13:313 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:03:19:319 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:03:35:335 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:03:47:347 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:03:54:354 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:03:57:357 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:04:12:412 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:04:21:421 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:04:42:442 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:04:51:451 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:05:02:52 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:05:07:57 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:05:33:533 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:05:43:543 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:05:44:544 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:05:50:550 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:06:17:617 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:06:19:619 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:06:28:628 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:06:31:631 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:06:39:639 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:06:41:641 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:06:45:645 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:06:48:648 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:06:55:655 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:07:04:74 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:08:34:834 - [35mhttp[39m: [35mDELETE /api/anime/6269b68775695e5bab4633815 404 177 - 2.001 ms[39m
+[35m[39m
+2022-04-27 19:08:41:841 - [35mhttp[39m: [35mDELETE /api/anime/6269b68775695e5bab463381 404 176 - 0.771 ms[39m
+[35m[39m
+2022-04-27 19:08:46:846 - [35mhttp[39m: [35mDELETE /api/anime/6269b68775695e5bab463381 404 176 - 0.572 ms[39m
+[35m[39m
+2022-04-27 19:08:59:859 - [35mhttp[39m: [35mDELETE /api/anime/6269b68775695e5bab463381 404 176 - 0.334 ms[39m
+[35m[39m
+2022-04-27 19:09:28:928 - [35mhttp[39m: [35mDELETE /api/anime/6269b68775695e5bab463381 404 176 - 0.666 ms[39m
+[35m[39m
+2022-04-27 19:09:42:942 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "6269b68775695e5bab4633815" (type string) at path "_id" for model "Anime"[39m
+2022-04-27 19:09:47:947 - [35mhttp[39m: [35mDELETE /api/animes/6269b68775695e5bab4633815 - - - - ms[39m
+[35m[39m
+2022-04-27 19:09:52:952 - [35mhttp[39m: [35mDELETE /api/animes/6269b68775695e5bab463381 200 594 - 80.196 ms[39m
+[35m[39m
+2022-04-27 19:10:43:1043 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "6269b68775695e5bab4633815" (type string) at path "_id" for model "Anime"[39m
+2022-04-27 19:10:49:1049 - [35mhttp[39m: [35mDELETE /api/animes/6269b68775695e5bab4633815 - - - - ms[39m
+[35m[39m
+2022-04-27 19:10:56:1056 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "6269b68775695e5bab46338" (type string) at path "_id" for model "Anime"[39m
+2022-04-27 19:10:59:1059 - [35mhttp[39m: [35mDELETE /api/animes/6269b68775695e5bab46338 - - - - ms[39m
+[35m[39m
+2022-04-27 19:11:30:1130 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:11:33:1133 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:11:42:1142 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:12:08:128 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:12:24:1224 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:12:44:1244 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:12:54:1254 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:13:00:130 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "6269b68775695e5bab4633815" (type string) at path "_id" for model "Anime"[39m
+2022-04-27 19:13:02:132 - [35mhttp[39m: [35mDELETE /api/animes/6269b68775695e5bab4633815 - - - - ms[39m
+[35m[39m
+2022-04-27 19:13:06:136 - [35mhttp[39m: [35mDELETE /api/animes/6269b68775695e5bab463381 200 36 - 158.319 ms[39m
+[35m[39m
+2022-04-27 19:13:29:1329 - [35mhttp[39m: [35mPOST /api/animes 201 594 - 72.310 ms[39m
+[35m[39m
+2022-04-27 19:14:42:1442 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:15:06:156 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:15:11:1511 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:15:12:1512 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:15:15:1515 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:15:20:1520 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:15:33:1533 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:15:44:1544 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:16:28:1628 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:16:29:1629 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:16:51:1651 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:16:56:1656 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:16:58:1658 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:17:00:170 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:17:01:171 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:17:05:175 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:17:10:1710 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:17:25:1725 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:17:27:1727 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:17:40:1740 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:17:49:1749 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:18:00:180 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:18:07:187 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:18:13:1813 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:18:17:1817 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:19:23:1923 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "6269b49e1ebff6eb5cbb5ccc5" (type string) at path "_id" for model "Anime"[39m
+2022-04-27 19:19:27:1927 - [35mhttp[39m: [35mPATCH /api/animes/6269b49e1ebff6eb5cbb5ccc5 - - - - ms[39m
+[35m[39m
+2022-04-27 19:20:26:2026 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:20:31:2031 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:20:36:2036 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:21:03:213 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:21:06:216 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:21:08:218 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:21:11:2111 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:21:15:2115 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:21:27:2127 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:21:33:2133 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:22:03:223 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:22:05:225 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:22:12:2212 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:22:15:2215 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:22:34:2234 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:24:20:2420 - [35mhttp[39m: [35mPATCH /api/animes/6269c009cab0feb5c4ea0a8a 200 475 - 176.203 ms[39m
+[35m[39m
+2022-04-27 19:25:53:2553 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:26:14:2614 - [35mhttp[39m: [35mPATCH /api/animes/6269c009cab0feb5c4ea0a8a 200 458 - 167.880 ms[39m
+[35m[39m
+2022-04-27 19:26:21:2621 - [35mhttp[39m: [35mPATCH /api/animes/6269c009cab0feb5c4ea0a8a 200 458 - 120.545 ms[39m
+[35m[39m
+2022-04-27 19:26:49:2649 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:27:00:270 - [35mhttp[39m: [35mPATCH /api/animes/6269c009cab0feb5c4ea0a8a 200 475 - 146.883 ms[39m
+[35m[39m
+2022-04-27 19:27:16:2716 - [35mhttp[39m: [35mPATCH /api/animes/6269c009cab0feb5c4ea0a8a 200 458 - 117.809 ms[39m
+[35m[39m
+2022-04-27 19:28:15:2815 - [35mhttp[39m: [35mPATCH /api/animes/6269c009cab0feb5c4ea0a8a 200 475 - 111.234 ms[39m
+[35m[39m
+2022-04-27 19:31:22:3122 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:31:39:3139 - [35mhttp[39m: [35mPATCH /api/animes/6269c009cab0feb5c4ea0a8a 404 176 - 1.592 ms[39m
+[35m[39m
+2022-04-27 19:32:03:323 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:32:05:325 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:32:09:329 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:32:14:3214 - [35mhttp[39m: [35mPATCH /api/animes/6269c009cab0feb5c4ea0a8a 200 458 - 137.723 ms[39m
+[35m[39m
+2022-04-27 19:33:40:3340 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:33:43:3343 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:34:20:3420 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:34:23:3423 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:34:48:3448 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:34:50:3450 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:34:52:3452 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:34:55:3455 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:35:06:356 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:35:43:3543 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:36:00:360 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:36:05:365 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:36:09:369 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:36:28:3628 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:37:13:3713 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:37:16:3716 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:37:42:3742 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:37:44:3744 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:38:10:3810 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:42:20:4220 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:43:17:4317 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:44:05:445 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:45:29:4529 - [35mhttp[39m: [35mPATCH /api/animes/6269c009cab0feb5c4ea0a8a 200 458 - 141.707 ms[39m
+[35m[39m
+2022-04-27 19:47:10:4710 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:47:27:4727 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:47:37:4737 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2022-04-27 19:47:57:4757 - [35mhttp[39m: [35mPATCH /api/animes/6269c009cab0feb5c4ea0a8a 422 101 - 14.732 ms[39m
+[35m[39m
+2022-04-27 19:48:09:489 - [35mhttp[39m: [35mPATCH /api/animes/6269c009cab0feb5c4ea0a8a 200 475 - 135.428 ms[39m
+[35m[39m
+2022-04-27 19:48:48:4848 - [32minfo[39m: [32mSystem error: Cast to ObjectId failed for value "6269c009cab0feb5c4ea0a8a5" (type string) at path "_id" for model "Anime"[39m
+2022-04-27 19:48:51:4851 - [35mhttp[39m: [35mGET /api/animes/6269c009cab0feb5c4ea0a8a5 - - - - ms[39m
+[35m[39m
+2022-04-27 19:48:59:4859 - [35mhttp[39m: [35mGET /api/animes/6269c009cab0feb5c4ea0a8a 200 594 - 53.817 ms[39m
+[35m[39m
+2022-04-27 19:49:36:4936 - [32minfo[39m: [32mSystem error: Cast to ObjectId failed for value "6269c009cab0feb5c4ea0a8a5" (type string) at path "_id" for model "Anime"[39m
+2022-04-27 19:49:38:4938 - [35mhttp[39m: [35mDELETE /api/animes/6269c009cab0feb5c4ea0a8a5 - - - - ms[39m
+[35m[39m
+2022-04-27 19:49:46:4946 - [35mhttp[39m: [35mDELETE /api/animes/6269b68775695e5bab463381 404 32 - 52.305 ms[39m
+[35m[39m
